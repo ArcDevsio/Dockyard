@@ -102,5 +102,5 @@ Community-created content remains the property of its respective creators.
 </p>
 
 <p align="center">
-  <strong>Dockyard</strong>
+  <strong>Dockyard • ArcDevs.io</strong>
 </p>
