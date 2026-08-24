@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ArcDevs/dockyard-mods/releases">
-    <img src="https://img.shields.io/github/v/release/ArcDevs/Dockyard?style=flat-square" alt="Latest Release">
+    <img src="https://img.shields.io/github/v/release/ArcDevsio/Dockyard?style=flat-square" alt="Latest Release">
   </a>
   <a href="https://github.com/ArcDevs/dockyard-mods/releases">
     <img src="https://img.shields.io/github/downloads/ArcDevs/Dockyard/total?style=flat-square" alt="Downloads">
