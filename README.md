@@ -3,8 +3,8 @@
 > A community mod manager for Spaceflight Simulator.
 
 <p align="center">
-  <a href="https://github.com/ArcDevs.io/Dockyard">
-    <img src="https://img.shields.io/badge/GitHub-ArcDevsio%2FDockyard-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/ArcDevsio/Dockyard">
+    <img src="https://img.shields.io/badge/GitHub-ArcDevs.io%2FDockyard-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://github.com/ArcDevsio/Dockyard/releases">
     <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
@@ -48,7 +48,6 @@ No accounts. No unnecessary setup. Just find content and install it.
 ## For Creators
 
 Want your work available through Dockyard?
-
 Submit your content to **ArcDevs.io** for review. Approved content is distributed through Dockyard with proper creator attribution.
 
 **You keep ownership of your work.**
