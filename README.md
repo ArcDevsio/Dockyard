@@ -3,7 +3,7 @@
 > A community mod manager for Spaceflight Simulator.
 
 <p align="center">
-  <a href="https://github.com/ArcDevsio/Dockyard">
+  <a href="https://github.com/ArcDevs.io/Dockyard">
     <img src="https://img.shields.io/badge/GitHub-ArcDevsio%2FDockyard-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://github.com/ArcDevsio/Dockyard/releases">
