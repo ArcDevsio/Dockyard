@@ -73,7 +73,6 @@ Submit your content to **ArcDevsio** for review. Approved content is distributed
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/ArcDevsio/Dockyard?style=flat-square&label=Last%20Update&color=8B5CF6" alt="Last Update">
   <img src="https://img.shields.io/github/repo-size/ArcDevsio/Dockyard?style=flat-square&label=Repository%20Size&color=06B6D4" alt="Repository Size">
-  <img src="https://img.shields.io/github/languages/top/ArcDevsio/Dockyard?style=flat-square&label=TypeScript&color=3178C6" alt="TypeScript">
 </p>
 
 ---
