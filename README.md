@@ -81,7 +81,7 @@ Submit your content to **ArcDevs.io** for review. Approved content is distribute
 
 Dockyard is an independent, unofficial community project developed by **ArcDevs.io**.
 
-Dockyard is **not affiliated with, endorsed by, sponsored by, or officially connected to Spaceflight Simulator, Team Curiosity, Spaceflight Simulator UK Ltd, or Stefo Mai Morojna**.
+Dockyard is **not affiliated with, endorsed by, sponsored by, or officially connected to Spaceflight Simulator, Team Curiosity, Spaceflight Simulator UK Ltd, or Štefo Mai Morojna**.
 
 Spaceflight Simulator and its associated trademarks and intellectual property belong to their respective owners.
 
