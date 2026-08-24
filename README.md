@@ -49,7 +49,7 @@ No accounts. No unnecessary setup. Just find content and install it.
 
 Want your work available through Dockyard?
 
-Submit your content to **ArcDevsio** for review. Approved content is distributed through Dockyard with proper creator attribution.
+Submit your content to **ArcDevs.io** for review. Approved content is distributed through Dockyard with proper creator attribution.
 
 **You keep ownership of your work.**
 
@@ -79,7 +79,7 @@ Submit your content to **ArcDevsio** for review. Approved content is distributed
 
 ## Disclaimer
 
-Dockyard is an independent, unofficial community project developed by **ArcDevsio**.
+Dockyard is an independent, unofficial community project developed by **ArcDevs.io**.
 
 Dockyard is **not affiliated with, endorsed by, sponsored by, or officially connected to Spaceflight Simulator, Team Curiosity, Spaceflight Simulator UK Ltd, or Stefo Mai Morojna**.
 
@@ -97,10 +97,10 @@ Community-created content remains the property of its respective creators.
     <img src="https://img.shields.io/badge/Install%20App-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Install App">
   </a>
   <a href="https://github.com/ArcDevsio">
-    <img src="https://img.shields.io/badge/ArcDevsio-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ArcDevsio">
+    <img src="https://img.shields.io/badge/ArcDevsio-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="ArcDevs.io">
   </a>
 </p>
 
 <p align="center">
-  <strong>Dockyard</strong> · Discover. Download. Build.
+  <strong>Dockyard</strong>
 </p>
