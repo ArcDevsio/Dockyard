@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github" alt="GitHub API">
 </p>
 
 ---
@@ -31,6 +33,8 @@ Dockyard makes it easier to discover and manage community content for **Spacefli
 
 No accounts. No unnecessary setup. Just find content and install it.
 
+Dockyard is designed to provide a simple, community-focused experience for discovering, downloading, and keeping track of Spaceflight Simulator content.
+
 ---
 
 ## Features
@@ -41,29 +45,84 @@ No accounts. No unnecessary setup. Just find content and install it.
 * Local-first storage
 * Offline access to downloaded content
 * Automatic update checking
+* Weekly featured community content
+* Automatic featured content rotation
+* Manual featured content management
+* App update notifications
 * No user accounts required
+* Ad-free
+* No premiumware
+
+---
+
+## Weekly Featured Content
+
+Dockyard automatically selects community creations for its weekly featured section.
+
+Each week, eligible **mods, parts, textures, blueprints, and other community creations** can be randomly selected for exposure.
+
+Featured content can also be manually managed through the Dockyard administration dashboard.
+
+There is **no payment required to be featured**.
+
+Good community content gets a chance to be discovered without paid promotion.
+
+---
+
+## App Updates
+
+Dockyard can check for new application releases through its backend.
+
+Administrators can publish update information through the administration dashboard, allowing users to be notified when a new version of Dockyard is available.
 
 ---
 
 ## For Creators
 
 Want your work available through Dockyard?
+
 Submit your content to **ArcDevs.io** for review. Approved content is distributed through Dockyard with proper creator attribution.
 
 **You keep ownership of your work.**
+
+There is no paid placement system for featured content.
+
+---
+
+## Administration
+
+Dockyard includes a dedicated administration dashboard for managing the service.
+
+Administrators can:
+
+* Manage weekly featured content
+* Add or remove featured entries
+* Randomize weekly selections
+* Overwrite the current weekly selection
+* Manage application update information
+* Publish update announcements
+* Manage content distributed through the Dockyard API
+
+The administration system communicates with the Dockyard backend and associated services through server-side PHP.
 
 ---
 
 ## Tech
 
-|              |                     |
-| ------------ | ------------------- |
-| Framework    | Expo + React Native |
-| Language     | TypeScript          |
-| Platform     | Android             |
-| Routing      | Expo Router         |
-| Architecture | Offline-first       |
-| Backend      | In development      |
+|                  |                                 |
+| ---------------- | ------------------------------- |
+| Mobile Framework | Expo + React Native             |
+| Language         | TypeScript                      |
+| Platform         | Android                         |
+| Routing          | Expo Router                     |
+| UI               | React Native StyleSheet         |
+| Architecture     | Offline-first                   |
+| Backend          | PHP                             |
+| API              | Custom PHP API                  |
+| Administration   | PHP Admin Dashboard             |
+| Content          | GitHub API                      |
+| Builds           | Expo Application Services (EAS) |
+| Distribution     | GitHub Releases + Dockyard API  |
 
 ---
 
@@ -73,6 +132,24 @@ Submit your content to **ArcDevs.io** for review. Approved content is distribute
   <img src="https://img.shields.io/github/last-commit/ArcDevsio/Dockyard?style=flat-square&label=Last%20Update&color=8B5CF6" alt="Last Update">
   <img src="https://img.shields.io/github/repo-size/ArcDevsio/Dockyard?style=flat-square&label=Repository%20Size&color=06B6D4" alt="Repository Size">
 </p>
+
+---
+
+## Philosophy
+
+Dockyard is built around a simple idea:
+
+> **Good community content should be easy to discover.**
+
+No ads.
+
+No premiumware.
+
+No paid featured placements.
+
+No unnecessary accounts.
+
+Just a free tool for discovering and managing community-created content for Spaceflight Simulator.
 
 ---
 
