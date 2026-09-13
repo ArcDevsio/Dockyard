@@ -119,8 +119,7 @@ The administration system communicates with the Dockyard backend and associated 
 | UI               | React Native StyleSheet         |
 | Architecture     | Offline-first                   |
 | Backend          | PHP                             |
-| API              | Custom PHP API                  |
-| Administration   | PHP Admin Dashboard             |
+| API              | Custom ArcDevs API              |
 | Content          | GitHub API                      |
 | Builds           | Expo Application Services (EAS) |
 | Distribution     | GitHub Releases + Dockyard API  |
